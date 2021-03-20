@@ -117,3 +117,8 @@ a.article-title:hover {
   border-top-right-radius: 0;
   color: #cbd5db;
 }
+
+.deck {
+  margin-left: auto;
+  margin-right: auto;
+}
